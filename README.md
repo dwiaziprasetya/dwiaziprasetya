@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <h2>Mobile Developer 📱</h2>
+  <h2>Android Developer 📱</h2>
 </div>
 
 <div align="justify">
-  <p>As passionate Junior Mobile Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Language and Multi platform Language etc. while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.</p>
+  <p>As passionate Junior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi platform Development etc. while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.</p>
 </di
 
 <div align="left">
