@@ -27,7 +27,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
-
-<h2> My Github Stats </h2>
-
-<a href="http://www.github.com/dwiaziprasetya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dwiaziprasetya&stroke=ffffff&background=1c1917&ring=C738BD&fire=C738BD&currStreakNum=ffffff&currStreakLabel=C738BD&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
