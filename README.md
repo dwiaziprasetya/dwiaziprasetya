@@ -27,3 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dwiaziprasetya&theme=dark)](https://git.io/streak-stats)
