@@ -1,9 +1,9 @@
 <div>
-  <h1>Hello My name is Dwi Azi Prasetya 👨‍💻</h1>
+  <h1>👨‍💻Hello My name is Dwi Azi Prasetya</h1>
 </div>
 
 <div>
-  <h2>Android Developer 📱</h2>
+  <h2>📱Android Developer</h2>
 </div>
 
 <div align="justify">
