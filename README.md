@@ -7,7 +7,7 @@
 </div>
 
 <div align="justify">
-  <p>Passionate Junior Android Developer with a strong drive for learning and growth. Skilled in Android Native and Multiplatform Development, eager to contribute and collaborate on impactful mobile app projects.</p>
+  <p>Passionate Junior Mobile Developer with a strong drive for learning and growth. Skilled in Android & IOS also Multiplatform Development, eager to contribute and collaborate on impactful mobile app projects.</p>
 </di
 
 <div align="left">
