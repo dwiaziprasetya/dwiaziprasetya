@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2>📱Android Developer</h2>
+  <h2>📱Mobile Developer</h2>
 </div>
 
 <div align="justify">
