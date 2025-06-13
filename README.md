@@ -7,7 +7,7 @@
 </div>
 
 <div align="justify">
-  <p>Passionate Junior Mobile Developer with a strong drive for learning and growth. Skilled in Android & IOS also Multiplatform Development, eager to contribute and collaborate on impactful mobile app projects.</p>
+  <p>Passionate Junior Mobile Developer with a strong focus on Android. I specialize in building modern Android applications using Kotlin and Jetpack Compose, while also expanding my knowledge in iOS and cross-platform development. Committed to continuous learning and effective collaboration in impactful projects.</p>
 </di
 
 <div align="left">
