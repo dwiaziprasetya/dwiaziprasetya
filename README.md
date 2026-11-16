@@ -1,3 +1,3 @@
 # Dwi Azi Prasetya
 
-Android and Platform Engineer with strong expertise in building production-ready enterprise applications and low-level system customization. Proven experience in scalable architectures (MVVM, Clean Architecture, Multi-module), modern Android development (Jetpack Compose and Kotlin Multiplatform), and AOSP platform integration. Experienced in building secure, high-scale enterprise apps and real-world embedded Android solutions focused on high performance and reliability.
+Android and Platform Engineer with experience building and maintaining production apps, including a national-scale mobile banking application. Skilled in Kotlin, Jetpack Compose, and scalable architectures (MVVM, Clean Architecture, Multi-module), with hands-on experience in unit testing, CI/CD, and app releases. Experienced in low-level Android platform development, including AOSP customization, Board Support Package (BSP) integration, and C++ on embedded hardware.
